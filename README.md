@@ -1,6 +1,3 @@
-# PINTEREST
-PRACTICA ARQUITECTURA DE LA INFORMACION
-
 <!DOCTYPE html>
 <html lang="en">
   <head>
