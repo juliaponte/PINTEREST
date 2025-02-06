@@ -3,6 +3,7 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>PINTEREST</title>
     <link
       rel="icon"
       href="https://res.cloudinary.com/dgmvmtx2c/image/upload/v1738241167/pinterest_png_cr6gi3.png"
@@ -71,9 +72,9 @@
       alt="Consistency"
       />        
     </main>
-  </body>
   <section>
     <a href="#Más">
       <img src="https://res.cloudinary.com/dgmvmtx2c/image/upload/v1738881557/Captura_de_pantalla_2025-02-05_202021_vpf9fz.png" alt="Más"/>
   </section>
+    </body>
 </html>
