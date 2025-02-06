@@ -3,9 +3,6 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>
-      Pinterest
-    </title>
     <link
       rel="icon"
       href="https://res.cloudinary.com/dgmvmtx2c/image/upload/v1738241167/pinterest_png_cr6gi3.png"
